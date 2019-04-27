@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="led">
+    <file>resources/blue-led-off.png</file>
+    <file>resources/blue-led-on.png</file>
+    <file>resources/green-led-off.png</file>
+    <file>resources/green-led-on.png</file>
+    <file>resources/red-led-off.png</file>
+    <file>resources/red-led-on.png</file>
+  </qresource>
+  <qresource prefix="Image">
+    <file>resources/NT_BannerSW31.png</file>
+    <file>resources/NT_BannerSW32.png</file>
+    <file>resources/NT_BannerSW33.png</file>
+    <file>resources/NT_BannerSW34.png</file>
+    <file>resources/NT_BannerSW35.png</file>
+    <file>resources/NT_BannerSW36.png</file>
+  </qresource>
+</RCC>
